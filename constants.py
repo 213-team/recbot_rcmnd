@@ -1,0 +1,2 @@
+CATEGORY_TO_TELEGRAM_CHANNEL_FILE = "category_to_telegram_channel.pkl"
+TELEGRAM_CHANNEL_TO_CATEGORY_FILE = "telegram_channel_to_category.pkl"
